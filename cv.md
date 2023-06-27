@@ -16,3 +16,9 @@ I possess exceptional interpersonal skills, thriving as a collaborative team mem
 result = 4 + 5
 print(result);
 ```
+## Experience
+## Education
+- Environmental Engineer
+
+## Languages
+- English - A2
