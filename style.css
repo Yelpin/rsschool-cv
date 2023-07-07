@@ -40,7 +40,7 @@ body {
     text-decoration: none;  
     }
   .nav-link:hover {
-    color: #d40b0b;
+    color: #193bfd;
     }
     .container {
     max-width: 1440px;
@@ -73,5 +73,5 @@ footer {
   height: 100px;
   }
   .logo-container {
-    margin-left: auto;
+    margin-left: 10 px;
   }
