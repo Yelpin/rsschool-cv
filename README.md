@@ -1,3 +1,3 @@
-https://GITHUB-Yelpin.github.io/rsschool-cv/cv
-https://GITHUB-Yelpin.github.io/rsschool-cv/
+https://Yelpin.github.io/rsschool-cv/cv
+https://Yelpin.github.io/rsschool-cv/
 
